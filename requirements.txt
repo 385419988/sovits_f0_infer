@@ -1,5 +1,5 @@
 Flask==2.1.2
-Flask_Cors==3.0.10
+Flask_Cors==3.0.10https://github.com/385419988/sovits_f0_infer/blob/main/requirements.txt
 gradio==3.4.1
 numpy==1.19.2
 playsound==1.3.0
@@ -11,7 +11,6 @@ scipy==1.7.3
 sounddevice==0.4.5
 SoundFile==0.10.3.post1
 starlette==0.19.1
-torch==1.10.0+cu113
 torchaudio==0.10.0+cu113
 tqdm==4.63.0
 scikit-maad
